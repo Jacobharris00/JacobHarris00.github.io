@@ -1,0 +1,7 @@
+# Keep engineering source documents out of the GitHub Pages/Jekyll output.
+# Do not add .nojekyll or bypass these exclusions when publishing.
+exclude:
+  - PersonalPortfolio
+  - README.md
+  - docs
+  - tools
