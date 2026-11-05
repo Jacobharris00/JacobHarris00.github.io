@@ -30,3 +30,6 @@
 .source-note{border-top:1px solid var(--line);padding:28px 0;margin-bottom:20px}
 .source-note h2{font-size:18px}.source-note p{font-size:13px;color:var(--body);overflow-wrap:anywhere;max-width:900px}
 @media(max-width:640px){.project-art.hero-art{aspect-ratio:4/3}.project-art.hero-art img{padding:10px 10px 35px}.project-art.hero-art:after{background:linear-gradient(180deg,#e9edf2,transparent 20%)}.project-figure .project-art{aspect-ratio:auto}.project-figure .project-art img{padding:10px 10px 40px}.gallery{grid-template-columns:1fr}.gallery img{height:auto;max-height:250px}.additional-project h2{font-size:25px}}
+
+.appointment-link{transition:color .15s ease;text-underline-offset:4px}
+.appointment-link:hover,.appointment-link:focus-visible{color:#3e5d80;text-decoration:underline;cursor:pointer}
